@@ -25,6 +25,8 @@ Generates an initial population with random mutations.
 
 Applies crossover to create children.
 
+Mutates children derived from crossover
+
 Optimizes each child using gradient descent (5 iterations).
 
 Selects the top 5 performers based on fitness (-loss).
