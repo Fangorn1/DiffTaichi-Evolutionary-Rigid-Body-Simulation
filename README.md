@@ -1,6 +1,6 @@
 # DiffTaichi-Evolutionary-Rigid-Body-Simulation
 
-[https://www.youtube.com/watch?v=0LJmqNRU0Ps](url)
+https://www.youtube.com/watch?v=0LJmqNRU0Ps
 
 **A Taichi-based rigid body simulation with evolutionary optimization for robotic locomotion.**
 
