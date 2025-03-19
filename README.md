@@ -37,7 +37,7 @@ Continues for designated generations (10 at default) with the subsequent populat
 
 **Acknowledgments**
 
-Built with Taichi and derived from
+Built with Taichi and adapted from
 
 https://github.com/taichi-dev/difftaichi/blob/master/examples/rigid_body.py
 
