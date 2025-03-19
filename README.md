@@ -1,5 +1,7 @@
 # DiffTaichi-Evolutionary-Rigid-Body-Simulation
 
+[https://www.youtube.com/watch?v=0LJmqNRU0Ps](url)
+
 **A Taichi-based rigid body simulation with evolutionary optimization for robotic locomotion.**
 
 This project implements a 2D physics simulation of rigid bodies connected by springs and joints, optimized using an evolutionary algorithm and gradient based optimization to achieve locomotion toward a target goal.
