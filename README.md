@@ -9,9 +9,11 @@ This project implements a 2D physics simulation of rigid bodies connected by spr
 **How To Run**
 
 Install necessary dependencies
+
 pip install -r requirements.txt
 
 Run the simulation
+
 python rigid_body.py
 
 **How It Works**
